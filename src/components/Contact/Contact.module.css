@@ -1,0 +1,17 @@
+.contact {
+  display: flex;
+  align-items: center;
+  border: 1px solid #000;
+  padding: 10px;
+  min-width: 250px;
+  border-radius: 10px;
+}
+
+.contactInfo {
+  flex-grow: 1;
+  text-align: start;
+}
+
+.contactInfoIcon {
+  margin-right: 10px;
+}

@@ -1,0 +1,19 @@
+.contactForm {
+  border: 2px solid;
+  border-radius: 10px;
+  width: fit-content;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.submitBtn {
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: #6f85d6;
+}
+
+.errorMessage {
+  display: block;
+  color: red;
+  font-size: 14px;
+}
